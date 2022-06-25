@@ -6,3 +6,4 @@ let fruits = ['apple','orenge','stawabery','banan','chery','limon','kiwi']
 for(let i=0; i <fruits.length; i++)
 
 console.log("№:" + i + fruits [i]); 
+let b = (salom)
